@@ -11,6 +11,12 @@ The learning outcomes include:
  - DRY principles
  - Separation of concerns
  
+## How to run the program
+Run the naan_factory_run.py file
+
+## How to run the tests
+Run the naan_factory_test.py file 
+
  
  ## Specifications of the factory
  
