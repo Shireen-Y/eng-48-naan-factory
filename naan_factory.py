@@ -18,5 +18,5 @@ print('got:', make_dough('water', 'flour'))
 # Then with the dough, we should be able to put it in the oven and get out a naan :)
 print("testing bake_dough with 'dough'. Expected --> 'naan'")
 print(bake_dough('dough') == 'naan')
-print('got:', bake_dough('dough'))
+print("When calling bake_dough('dough'), got:", bake_dough('dough'))
 
