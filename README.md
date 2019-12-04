@@ -23,5 +23,6 @@ Our factory will have 2 steps :
     - Output: naan
 - Factory run:
     - Lastly, we should just be able to give the factory the water and flour and get naan
- 
+    - Inputs: water and flour
+    - Outputs: naan
  
