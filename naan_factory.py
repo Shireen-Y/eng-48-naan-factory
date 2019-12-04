@@ -12,11 +12,11 @@ def bake_dough(arg1):
     pass
 
 print(make_dough('water', 'flour') == 'dough')
-print('got:', make_dough('water', 'flour') == 'dough')
+print('got:', make_dough('water', 'flour'))
 
 # Make test for bake_dough
 # Then with the dough, we should be able to put it in the oven and get out a naan :)
 print("testing bake_dough with 'dough'. Expected --> 'naan'")
 print(bake_dough('dough') == 'naan')
-print('got:', bake_dough('dough') == 'naan')
+print('got:', bake_dough('dough'))
 
