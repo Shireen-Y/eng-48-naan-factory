@@ -7,7 +7,9 @@ The learning outcomes include:
  - Github
  - Markdown (md)
  - TDD
- - Functional programming
+ - Functional programming and best practices
+ - DRY principles
+ - Separation of concerns
  
  
  ## Specifications of the factory
