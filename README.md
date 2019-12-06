@@ -16,7 +16,7 @@ Run the naan_factory_run.py file
 
 ## How to run the tests
 Run the naan_factory_test.py file 
-
+g
  
  ## Specifications of the factory
  
